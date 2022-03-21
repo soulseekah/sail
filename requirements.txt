@@ -3,7 +3,7 @@ requests==2.27.1
 prettytable==3.1.1
 PyYAML==6.0
 fabric==2.6.0
-paramiko==2.9.2
+paramiko==2.10.3
 python-digitalocean==1.17.0
 Jinja2==3.0.3
 tldextract==3.2.0
